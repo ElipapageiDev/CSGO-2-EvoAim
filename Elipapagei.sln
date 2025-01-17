@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elipapagei", "Elipapagei\Elipapagei.vcxproj", "{2D181B4A-5E98-4C6F-B40C-E94921AE06AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Elipapagei|x64-papagei = Elipapagei|x64-papagei
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D181B4A-5E98-4C6F-B40C-E94921AE06AC}.Elipapagei|x64-papagei.ActiveCfg = Debug|x64
+		{2D181B4A-5E98-4C6F-B40C-E94921AE06AC}.Elipapagei|x64-papagei.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87A48B3D-409B-4D17-A3B2-EEEEB18AB9AC}
+	EndGlobalSection
+EndGlobal

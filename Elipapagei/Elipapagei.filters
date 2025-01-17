@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="aimbot.cpp">
+      <Filter>src\aimbot</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\gui.cpp">
+      <Filter>menu</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_curve_editor.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_dx9.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_win32.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_tables.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="memory\memory.cpp">
+      <Filter>sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\main.cpp">
+      <Filter>sdk\main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="aimbot.h">
+      <Filter>src\aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer\gui.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer\font.h">
+      <Filter>imgui\fonts - logos</Filter>
+    </ClInclude>
+    <ClInclude Include="iconNew.h">
+      <Filter>imgui\fonts - logos</Filter>
+    </ClInclude>
+    <ClInclude Include="imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_dx9.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_win32.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_rectpack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="memory\memory.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="offsets.h">
+      <Filter>offsets</Filter>
+    </ClInclude>
+    <ClInclude Include="math\vector.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{8a5f3a9d-31d3-4eae-a663-5e1fe9cfb31b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="offsets">
+      <UniqueIdentifier>{ef1ccc49-0fc2-4b90-b819-3d9bcba3dd32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{6afab059-a0a8-49b1-a6cb-2acb8072b752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="menu">
+      <UniqueIdentifier>{054777a5-133e-438c-a68e-b78d657fd7ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\aimbot">
+      <UniqueIdentifier>{35962f30-225f-4001-855e-4016144c896f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sdk">
+      <UniqueIdentifier>{a45cebff-156f-4a7b-a481-741ff4a7b7d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui\fonts - logos">
+      <UniqueIdentifier>{10510551-fd05-4d31-91d7-7886f02dafce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sdk\main">
+      <UniqueIdentifier>{4469fa2a-d6b5-469f-a3c9-1e72ece65259}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
