@@ -1,6 +1,6 @@
 # CS2 Aimbot
 
-![3D Parallax Developer Portfolio Thumbnail]([https://ibb.co/7R5Kby0])
+[![eli-aimmm.png](https://i.postimg.cc/mkfx1zmb/eli-aimmm.png)](https://postimg.cc/xJRpWCr7)
 
 ## Introduction
 This is a code repository for my 3D portfolio website showcased in this video - https://youtu.be/f_ZxgQQ74Lc.
